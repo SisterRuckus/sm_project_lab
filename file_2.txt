@@ -1,3 +1,4 @@
 I have a dog.
 He is fast.
 His name is Winston.
+Winston is an Italian Greyhound.
