@@ -1,3 +1,6 @@
 My brother has a dog.
 She is white.
 Her name is Sasha.
+I have a dog.
+His name is Bones.
+He is black and white.
